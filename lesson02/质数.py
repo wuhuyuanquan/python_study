@@ -1,4 +1,4 @@
-#
+#仅能被1和它自己整除的数
 for i in range(1,101):
    if i==1:
        continue
